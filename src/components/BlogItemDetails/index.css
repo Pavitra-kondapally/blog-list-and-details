@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.blog-details-title {
+  color: #000000;
+}
+.blog-info {
+  font-family: 'Roboto';
+}
+.author-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.author-pic {
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+}
+.details-author-name {
+  color: #2f4f4f;
+}
+.blog-image {
+  height: 30%;
+  width: 70%;
+  border-radius: 5%;
+}
+.blog-content {
+  color: black;
+}
